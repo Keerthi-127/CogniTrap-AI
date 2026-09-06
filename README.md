@@ -3,7 +3,7 @@
 ### 🔗 Project Quick Links
 * **Live Application:** [View Live Deployment](PASTE_YOUR_DEPLOYED_APP_URL_HERE)
 * **Presentation Deck:** [View Project PPT / Pitch Deck](https://docs.google.com/presentation/d/1LhZBUfExZ7oTNMM7sS3Y31xHEixStNWa/edit?usp=sharing&ouid=100842268062784211024&rtpof=true&sd=true)
-* **Demo Video:** [Watch 5-Minute Walkthrough](PASTE_YOUR_VIDEO_URL_HERE)
+* **Demo Video:** [Watch 5-Minute Walkthrough](https://drive.google.com/file/d/1scCu9AUwmi_i0gint2y3bm9thHIKPzlN/view?usp=sharing)
 * **ARCHITECTURE:** ![COGNITRAP PICTORIAL ARCHITECTURE](<ChatGPT Image Sep 5, 2026, 08_54_20 PM-2.png>)
 
 A front-end prototype of a SOC-style dashboard that demonstrates a six-step insider-threat detection loop:
