@@ -56,7 +56,6 @@ It simulates a company with employees, file-system activity, and a behavioral an
 │  • src/start.ts adds CSRF middleware    │
 └─────────────────────────────────────────┘
 ```
-![COGNITRAP PICTORIAL ARCHITECTURE](<ChatGPT Image Sep 5, 2026, 08_54_20 PM-2.png>)
 
 ### Routing
 
@@ -215,11 +214,3 @@ The sign-in card has pre-filled demo accounts. You can also type any email/passw
 - The experiment numbers on the landing page come from 20 manually-run simulated scenarios, not a live deployment.
 - AI-assisted tooling was used for parts of the interface, but the detection logic, experiment framing, and content were reviewed and edited to remove invented quotes or benchmarks.
 
-
-
-
-### 🔗 Project Quick Links
-* **Live Application:** [View Live Deployment](PASTE_YOUR_DEPLOYED_APP_URL_HERE)
-* **Presentation Deck:** [View Project PPT / Pitch Deck](PASTE_YOUR_PPT_SHARE_LINK_HERE)
-* **Demo Video:** [Watch 5-Minute Walkthrough](PASTE_YOUR_VIDEO_URL_HERE)
-* **ARCHITECTURE:** ![COGNITRAP PICTORIAL ARCHITECTURE](<ChatGPT Image Sep 5, 2026, 08_54_20 PM-2.png>)
